@@ -1,0 +1,26 @@
+body{
+    background-color:black;
+}
+
+h1{
+    font-family: "libre baskerville", serif;
+    color: white;
+    background-color: black;
+   
+    text-transform:uppercase;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+    
+}
+
+.Inspo{
+    width: 50%;
+    margin-left: 25%;
+    margin-top:100px;
+    font-family: "libre baskerville", serif;
+    color: white;
+    text-align: center;
+}
